@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DC_ROOT>
+	<ABC>
+		<structure id="1">
+			<book ISBN="123456" book_name="Java Language" >
+				<author author_name="Java_Author" specialization="Java"/>
+				<author author_name="Java_Old_Author"/>
+			</book>
+			<book ISBN="9876" book_name="Pascal Language" >
+				<author author_name="Pascal_Author"/>
+			</book>
+		</structure>
+		<structure id="2">
+			<book ISBN="123456" book_name="Java Language">
+				<author author_name="Java_Author" specialization="Java"/>
+				<author author_name="Java_New_Author"/>
+			</book>
+			<book ISBN="7654" book_name="C++ Language" >
+				<author author_name="C++_Author"/>
+			</book>
+		</structure>
+	</ABC>
+	<DEF>
+	</DEF>
+</DC_ROOT>

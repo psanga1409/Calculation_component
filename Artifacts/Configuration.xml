@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<DC-ComparedElement elementName="structure"/>
+
+	<Component tagname="book" primarykey="book_name"/>
+	<Component tagname="Journal" primarykey="journal_name"/>
+	<Component tagname="author" primarykey="author_name"/>
+
+	<DC-UpdatedElement flagValue="UP"/>
+	<DC-RemovedElement flagValue="RM"/>
+	<DC-AddedElement flagValue="AD"/>
+
+</configuration>

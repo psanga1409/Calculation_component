@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><CalculationOutputWrapper><book ISBN="123456" book_name="Java Language" action="UP"><author author_name="Java_Old_Author" action="RM"/><author author_name="Java_New_Author" action="AD"/></book><book ISBN="9876" book_name="Pascal Language" action="RM">
+				<author author_name="Pascal_Author" action="RM"/>
+			</book><book ISBN="7654" book_name="C++ Language" action="AD"><author author_name="C++_Author" action="AD"/></book></CalculationOutputWrapper>
